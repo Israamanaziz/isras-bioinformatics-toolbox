@@ -1,4 +1,4 @@
-# 🧰 Isra's Bioinformatics Toolbox
+# Isra's Bioinformatics Toolbox
 
 Hello theree!
 
