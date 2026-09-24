@@ -1,0 +1,14 @@
+# raw files
+
+bash/raw/
+bash/trimmed_fastq/
+bash/tmp/
+
+# qc files
+bash/qc/
+
+# index
+
+bash/index/
+
+bash/accession.txt
